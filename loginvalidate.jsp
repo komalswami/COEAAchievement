@@ -10,9 +10,9 @@
 	
   try {
 	Class.forName("com.mysql.jdbc.Driver");
-    Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/dbname", "root", "password");
+    Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/projectdatabase", "root", " ");
 	
-	ps=conn.prepareStatement("Select * from tablename where Email=?");
+	ps=conn.prepareStatement("Select * from maintable where Email=?");
 	ps.setString(1,uname);
 	rs=ps.executeQuery();
 	rs.next();
