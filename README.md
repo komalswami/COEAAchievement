@@ -15,10 +15,16 @@ This web application is made for collecting and storing the student data as well
   2.the latest version of commons-fileupload.x.x.jar
   3.the latest version of commons-io-x.x.jar(link for download:https://commons.apache.org/proper/commons-io/)
   
-4.Screenshots
+## Screenshots
 
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p1.png" /> 
-
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p2.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p3.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p4.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p5.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p6.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p7.png" /> 
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p8.png" /> 
 
  
   
