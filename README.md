@@ -20,7 +20,7 @@ This web application is made for collecting and storing the student data as well
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p1.png" /> 
 
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p2.png" /> 
-
+<br/>
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p3.png" /> <br>
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p4.png" /> <br>
 <img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p5.png" /> <br>
