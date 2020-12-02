@@ -16,7 +16,8 @@ This web application is made for collecting and storing the student data as well
   3.the latest version of commons-io-x.x.jar(link for download:https://commons.apache.org/proper/commons-io/)
   
 4.Screenshots
-<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p1.png" width="400"/> 
+
+<img src="https://github.com/komalswami/COEAAchievement/blob/master/ss/p1.png" /> 
 
 
  
